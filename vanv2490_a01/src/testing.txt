@@ -1,0 +1,79 @@
+Assignment 1 testing
+-------------------------------------------------------
+Author: Levi Van Veen
+ID: 200852490
+Email: vanv2490@mylaurier.ca
+__updated__ = "2021-01-21"
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a year to be checked: 1900
+1900 is not a leap year
+
+Enter a year to be checked: 1996
+1996 is a leap year
+
+Enter a year to be checked: 2000
+2000 is a leap year
+
+Enter a year to be checked: 1900
+1900 is not a leap year
+
+Enter a year to be checked: 1899
+1899 is not a leap year
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Values: [1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 3, 3, 4, 7, 6, 7, 6, 7, 6]
+Clean list: [1, 2, 3, 4, 7, 6]
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+[[0, 2, 4, 6, 8], [1, 3, 5, 7, 9]] [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9]]
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+[[22, 21, 17], [23, 19, 18]]
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+The file has 3 uppercase characters
+The file has 3 lowercase characters
+The file has 6 digit characters
+The file has 6 whitespace characters
+The file has 2 other characters
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+the string is now: Ths S  Strng wth Vwls
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+NP DJJBDLM PWDP HGPDLNH'M JHNGP JBEBB GDPNHGDE JDLC WDM EHMP NPM JHNGP. PWB MHQPWBLGFHMP 
+PNJ HR VDGDID NM NG PWB JDLC, GBDL PWB PHTG HR EBDFNGOPHG. PWBLB WDSB DETDXM ABBG MBSBLDE 
+WQGILBI FBPLBM HR MDGI ZQPPNGO HQP RLHF PWB FDNGEDGI. AQP JDLC HRRNVNDEM MDX LBVBGP WNOW 
+TNGIM WDSB TDMWBI DTDX PWB MDGI JHNGP DGI DEE PWDP LBFDNGM NM D JEDPRHLF. PWB JDLC DISBLPNMBM 
+NPMBER DM PWB MHQPWBLGFHMP PNJ HR VDGDID'M FDNGEDGI, DP PWB MDFB EDPNPQIB DM GHLPWBLG 
+VDENRHLGND, DGI DPPLDVPM FHLB PWDG 400,000 SNMNPHLM JBL XBDL. D JDLC HRRNVNDE MDXM D GH 
+MTNFFNGO MNOG PWDP QMBI PH FDLC PWB MHQPWBLGFHMP JHNGP TDMWBI QJ HG D ABDVW NG FDINMHG, HWNH, 
+DAHQP 100 CNEHFBPLBM DVLHMM EDCB BLNB. HRRNVNDEM MDX PWB MDGI JDPPBLGM DP PWB JHNGP VWDGOB 
+RLBKQBGPEX, AQP PWNM NM PWB RNLMP PNFB PWB JHNGP WDM INMDJJBDLBI VHFJEBPBEX.
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+KV CRRGCTU VJCV QPVCTKQ'U RQKPV RGNGG PCVKQPCN RCTM JCU NQUV KVU RQKPV. VJG UQWVJGTPOQUV 
+VKR QH ECPCFC KU KP VJG RCTM, PGCT VJG VQYP QH NGCOKPIVQP. VJGTG JCXG CNYCAU DGGP UGXGTCN 
+JWPFTGF OGVTGU QH UCPF LWVVKPI QWV HTQO VJG OCKPNCPF. DWV RCTM QHHKEKCNU UCA TGEGPV JKIJ 
+YKPFU JCXG YCUJGF CYCA VJG UCPF RQKPV CPF CNN VJCV TGOCKPU KU C RNCVHQTO. VJG RCTM CFXGTVKUGU 
+KVUGNH CU VJG UQWVJGTPOQUV VKR QH ECPCFC'U OCKPNCPF, CV VJG UCOG NCVKVWFG CU PQTVJGTP 
+ECNKHQTPKC, CPF CVVTCEVU OQTG VJCP 400,000 XKUKVQTU RGT AGCT. C RCTM QHHKEKCN UCAU C PQ 
+UYKOOKPI UKIP VJCV WUGF VQ OCTM VJG UQWVJGTPOQUV RQKPV YCUJGF WR QP C DGCEJ KP OCFKUQP, QJKQ, 
+CDQWV 100 MKNQOGVTGU CETQUU NCMG GTKG. QHHKEKCNU UCA VJG UCPF RCVVGTPU CV VJG RQKPV EJCPIG 
+HTGSWGPVNA, DWV VJKU KU VJG HKTUV VKOG VJG RQKPV JCU FKUCRRGCTGF EQORNGVGNA.

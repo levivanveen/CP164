@@ -1,0 +1,94 @@
+Lab 4 testing
+---------------------------------------------------
+t03
+---------------------------------------------------
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Bubble Sort          99     4950     4792        0     4950     2495
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Comb Sort          1003     1102     1252        0      122      261
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Insertion Sort       99     4950     2572        0     4950     2478
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Heap Sort          1081      944     1029      640      516      582
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Cocktail Sort        99     4950     3373        0     4950     2473
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Bst Sort           9900     4950      957        0        0        0
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Shell Sort          352      590      773        0      112      157
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Merge Sort          480     1146      809        0     1682      850
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Binary Insert Sort 1081      944     1027      640      516      581
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Quick Sort         5049     4999      886       33       33      119
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Selection Sort     4950     4950     4950        0       50       94
+
+
+
+---------------------------------------------------
+t04
+---------------------------------------------------
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Bubble Sort          99     4950     4785        0        0        0
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Comb Sort          1003     1102     1221        0        0        0
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Insertion Sort       99     4950     2567        0        0        0
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Merge Sort          480     1146      809        0        0        0
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Quick Sort         5049     4999      898        0        0        0
+
+n:   100       |      Comparisons       | |         Swaps           |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Selection Sort     4950     4950     4950        0        0        0
+

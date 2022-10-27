@@ -1,0 +1,82 @@
+Assignment 4 testing
+-------------------------------------------------------
+Author: Levi Van Veen
+ID: 200852490
+Email: vanv2490@mylaurier.ca
+__updated__ = "2021-02-11"
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+1
+2
+23
+1
+2
+3
+6
+7
+3
+False
+True
+3
+2
+6
+1
+7
+7
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Added 4 to source 1
+Added 3 to source 1
+Added 5 to source 1
+
+Added 4 to source 2
+Added 3 to source 2
+The queue's are not identical
+
+
+Added 4 to source 1
+Added 3 to source 1
+
+Added 4 to source 2
+Added 3 to source 2
+Both queue's are identical
+
+
+Added 4 to source 1
+Added 3 to source 1
+
+Added 4 to source 2
+Added 2 to source 2
+The queue's are not identical
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+False
+True
+False
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+target1: 1
+target1: 3
+target2: 5
+target2: 8
+key: 4
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+target1: 1
+target1: 5
+target2: 8
+target2: 10
+key: 6
+
+
+

@@ -1,0 +1,242 @@
+Lab 4 testing
+---------------------------------------------------
+t01
+---------------------------------------------------
+Movie, 2005
+
+---------------------------------------------------
+t03
+---------------------------------------------------
+4
+5
+
+---------------------------------------------------
+t04
+---------------------------------------------------
+5
+0
+True
+8
+5
+
+---------------------------------------------------
+t05
+---------------------------------------------------
+6
+1
+
+
+---------------------------------------------------
+t06
+---------------------------------------------------
+[]
+4
+3
+1
+6
+4
+[4, 3, 1, 6, 4]
+True
+
+
+---------------------------------------------------
+t07
+---------------------------------------------------
+The list is empty
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+an item was added to the list
+
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror was added to the list
+
+Title:    Dark City
+Year:     1998
+Director: Alex Proyas
+Rating:   7.8
+Genres:   science fiction was added to the list
+
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war was added to the list
+
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action was added to the list
+
+Title:    Omega Man, The
+Year:     1971
+Director: Boris Sagal
+Rating:   6.6
+Genres:   science fiction, action was added to the list
+
+Title:    Last Man On Earth, The
+Year:     1964
+Director: Ubaldo Ragona
+Rating:   6.9
+Genres:   science fiction was added to the list
+
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy was added to the list
+
+Title:    Stardust
+Year:     2007
+Director: Matthew Vaughn
+Rating:   7.7
+Genres:   fantasy, comedy was added to the list
+
+Title:    Juno
+Year:     2007
+Director: Jason Reitman
+Rating:   7.7
+Genres:   romance, comedy was added to the list
+
+Title:    Darjeeling Limited, The
+Year:     2007
+Director: Wes Anderson
+Rating:   7.1
+Genres:   comedy was added to the list
+
+Title:    Broken Flowers
+Year:     2005
+Director: Jim Jarmusch
+Rating:   7.2
+Genres:   romance, comedy was added to the list
+
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: George Lucas
+Rating:   8.7
+Genres:   science fiction, action was added to the list
+
+Title:    Horror of Dracula
+Year:     1958
+Director: Terence Fisher
+Rating:   7.4
+Genres:   horror was added to the list
+
+Title:    Jason and the Argonauts
+Year:     1963
+Director: Don Chaffey
+Rating:   7.4
+Genres:   fantasy, action was added to the list
+
+Title:    Wrong Box, The
+Year:     1966
+Director: Bryan Forbes
+Rating:   7.0
+Genres:   comedy was added to the list
+
+Title:    Finding Dory
+Year:     2016
+Director: Andrew Stanton, Angus MacLane
+Rating:   7.5
+Genres:   comedy was added to the list
+
+Title:    Manos: The Hands of Fate
+Year:     1966
+Director: Harold P. Warren
+Rating:   1.9
+Genres:   horror was added to the list
+
+Title:    Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The
+Year:     1964
+Director: Ray Dennis Steckler
+Rating:   2.2
+Genres:   horror was added to the list
+
+Title:    Z
+Year:     1969
+Director: Costa-Gavras
+Rating:   8.2
+Genres:   drama was added to the list
+
+Title:    Wonder Woman
+Year:     2017
+Director: Patty Jenkins
+Rating:   8.1
+Genres:   fantasy, action was added to the list
+
+Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama was added to the list
+
+The list is not empty
+
+The first item in the list is Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+
+The largest item in the list is Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+
+The item that was removed is Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+
+The smallest item in the list is Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+and it's index is 6.
+It is in the list 2 time(s).
+
+

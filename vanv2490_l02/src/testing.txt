@@ -1,0 +1,27 @@
+Lab 2 testing
+---------------------------------------------------
+t01
+---------------------------------------------------
+
+
+---------------------------------------------------
+t04
+---------------------------------------------------
+The top of the stack is 6
+The last item removed from the stack is 6
+
+---------------------------------------------------
+t05
+---------------------------------------------------
+The top of the stack is Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+The last item removed from the stack is Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+
+

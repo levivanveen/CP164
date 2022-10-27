@@ -1,0 +1,133 @@
+Assignment 2 testing
+-------------------------------------------------------
+Author: Levi Van Veen
+ID: 200852490
+Email: vanv2490@mylaurier.ca
+__updated__ = "2021-01-21"
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Source [5, 7, 8, 9, 12, 14, 8]
+
+target1 5
+target1 8
+target1 12
+target1 8
+
+target2 7
+target2 9
+target2 14
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Source [5, 7, 8, 9, 12, 14, 8]
+
+target1 5
+target1 8
+target1 12
+target1 8
+
+target2 7
+target2 9
+target2 14
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+string = 10 2 * 3 4 * -
+answer = 8
+
+string = 10 2 /
+answer = 5.0
+
+string = 11
+answer = 11
+
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+values in: [1, 2, 3, 4]
+opstring: SSXSSXXX
+values out: [2, 4, 3, 1]
+
+values in: [1, 2, 3, 4]
+opstring: SXXSSXSXX
+values out: None
+
+values in: [1, 2, 3, 4]
+opstring: SXXSSXSX
+values out: None
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+String: asmsa
+Valid Characters: asd
+Mirror letter: m
+Mirror: is a mirror
+
+
+String: asmsssa
+Valid Characters: asd
+Mirror letter: m
+Mirror: too many characters in R
+
+
+String: assssa
+Valid Characters: asd
+Mirror letter: m
+Mirror: no mirror character
+
+
+String: asdmssa
+Valid Characters: asd
+Mirror letter: m
+Mirror: L and R don't match
+
+
+String: asdmusa
+Valid Characters: asd
+Mirror letter: m
+Mirror: invalid character
+
+
+String: audmdsa
+Valid Characters: asd
+Mirror letter: m
+Mirror: invalid character
+
+
+String: assdamdsa
+Valid Characters: asd
+Mirror letter: m
+Mirror: too many characters in L

@@ -1,0 +1,33 @@
+Assignment 9 testing
+---------------------------------------------------
+t01
+---------------------------------------------------
+Using array-based list Hash_Set
+
+Total Comparisons: 730,914
+Word with maximum comparisons 'disproportionately': 17
+
+---------------------------------------------------
+t02
+---------------------------------------------------
+Using array-based sorted list Hash_Set
+
+Total Comparisons: 1,371,181
+Word with maximum comparisons 'incomprehensibility': 6
+
+---------------------------------------------------
+t03
+---------------------------------------------------
+Using linked BST Hash_Set
+
+Total Comparisons: 5,218,578
+Word with maximum comparisons 'uproariously': 2
+
+---------------------------------------------------
+t04
+---------------------------------------------------
+4 0 3
+False
+12
+31
+

@@ -1,0 +1,362 @@
+Lab 9 testing
+---------------------------------------------------
+t01 
+---------------------------------------------------
+Hashes
+Hash     Slot Key
+-------- ---- --------------------
+  3952108    3 Dellamorte Dellamore, 1994
+  1652346    1 Dark City, 1998
+   848448    3 Zulu, 1964
+  1810314    4 I Am Legend, 2007
+  2306070    0 Omega Man, The, 1971
+  3609832    2 Last Man On Earth, The, 1964
+  2016090    0 Alphaville, 1965
+  1722006    1 Stardust, 2007
+   826884    4 Juno, 2007
+  4258854    4 Darjeeling Limited, The, 2007
+  2764895    0 Broken Flowers, 2005
+  5498037    2 Star Wars: Episode IV - A New Hope, 1977
+  3158254    4 Horror of Dracula, 1958
+  4277377    2 Jason and the Argonauts, 1963
+  2396554    4 Wrong Box, The, 1966
+  2316384    4 Finding Dory, 2016
+  4081416    1 Manos: The Hands of Fate, 1966
+ 14700540    0 Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The, 1964
+   177210    0 Z, 1969
+  2357873    3 Wonder Woman, 2017
+   869616    1 Zulu, 2013
+
+---------------------------------------------------
+t02
+---------------------------------------------------
+True
+99
+
+
+---------------------------------------------------
+t03 
+---------------------------------------------------
+7 slots
+
+----------------------------------------
+Slot 0
+
+Title:    Broken Flowers
+Year:     2005
+Director: Jim Jarmusch
+Rating:   7.2
+Genres:   romance, comedy
+
+Title:    Finding Dory
+Year:     2016
+Director: Andrew Stanton, Angus MacLane
+Rating:   7.5
+Genres:   comedy
+
+Title:    Wonder Woman
+Year:     2017
+Director: Patty Jenkins
+Rating:   8.1
+Genres:   fantasy, action
+
+----------------------------------------
+Slot 1
+
+Title:    Horror of Dracula
+Year:     1958
+Director: Terence Fisher
+Rating:   7.4
+Genres:   horror
+
+Title:    Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The
+Year:     1964
+Director: Ray Dennis Steckler
+Rating:   2.2
+Genres:   horror
+
+----------------------------------------
+Slot 2
+
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action
+
+Title:    Last Man On Earth, The
+Year:     1964
+Director: Ubaldo Ragona
+Rating:   6.9
+Genres:   science fiction
+
+Title:    Juno
+Year:     2007
+Director: Jason Reitman
+Rating:   7.7
+Genres:   romance, comedy
+
+----------------------------------------
+Slot 3
+
+Title:    Dark City
+Year:     1998
+Director: Alex Proyas
+Rating:   7.8
+Genres:   science fiction
+
+Title:    Manos: The Hands of Fate
+Year:     1966
+Director: Harold P. Warren
+Rating:   1.9
+Genres:   horror
+
+----------------------------------------
+Slot 4
+
+Title:    Omega Man, The
+Year:     1971
+Director: Boris Sagal
+Rating:   6.6
+Genres:   science fiction, action
+
+----------------------------------------
+Slot 5
+
+Title:    Darjeeling Limited, The
+Year:     2007
+Director: Wes Anderson
+Rating:   7.1
+Genres:   comedy
+
+Title:    Z
+Year:     1969
+Director: Costa-Gavras
+Rating:   8.2
+Genres:   drama
+
+----------------------------------------
+Slot 6
+
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war
+
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+
+Title:    Stardust
+Year:     2007
+Director: Matthew Vaughn
+Rating:   7.7
+Genres:   fantasy, comedy
+
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: George Lucas
+Rating:   8.7
+Genres:   science fiction, action
+
+Title:    Jason and the Argonauts
+Year:     1963
+Director: Don Chaffey
+Rating:   7.4
+Genres:   fantasy, action
+
+Title:    Wrong Box, The
+Year:     1966
+Director: Bryan Forbes
+Rating:   7.0
+Genres:   comedy
+
+Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+
+---------------------------------------------------
+t04 
+---------------------------------------------------
+2 slots
+
+----------------------------------------
+Slot 0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+24
+
+26
+
+28
+
+30
+
+32
+
+34
+
+----------------------------------------
+Slot 1
+
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+23
+
+25
+
+27
+
+29
+
+31
+
+33
+
+
+REHASH
+5 slots
+
+----------------------------------------
+Slot 0
+
+2
+
+6
+
+10
+
+14
+
+18
+
+22
+
+26
+
+30
+
+34
+
+20
+
+0
+
+5
+
+25
+
+----------------------------------------
+Slot 1
+
+3
+
+7
+
+11
+
+15
+
+19
+
+23
+
+27
+
+31
+
+16
+
+21
+
+1
+
+6
+
+----------------------------------------
+Slot 2
+
+12
+
+32
+
+17
+
+7
+
+----------------------------------------
+Slot 3
+
+8
+
+28
+
+13
+
+33
+
+----------------------------------------
+Slot 4
+
+4
+
+24
+
+9
+
+29
+
